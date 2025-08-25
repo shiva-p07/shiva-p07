@@ -2,7 +2,9 @@
 Aspiring Software Developer | MERN Stack | Java | C++ | Backend Engineering
 
 📍 Location: Hyderabad, Telangana, India
+
 📧 Email: pathlavathshiva07@gmail.com
+
 🌐 Portfolio: 
 🔗 GitHub: https://github.com/shiva-p07
 
