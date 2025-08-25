@@ -5,8 +5,11 @@ Aspiring Software Developer | MERN Stack | Java | C++ | Backend Engineering
 📧 Email: pathlavathshiva07@gmail.com
 🌐 Portfolio: 
 🔗 GitHub: https://github.com/shiva-p07
+
 💼 LinkedIn: P. SHIVA
+
 🧠 LeetCode: https://leetcode.com/u/pathlavathshiva07/
+
 📱 Mobile: +91 95158 50258
 
 ---
