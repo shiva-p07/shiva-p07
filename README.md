@@ -1,4 +1,5 @@
 #   Hi 👋, I'm pathlavath Shiva 
+Aspiring Software Developer | MERN Stack | Java | C++ | Backend Engineering
 
 🎓 **Information Technology Student** at VNR Vignana Jyothi Institute of Engineering and Technology (2023–2026)  
 📍 Hyderabad, Telangana, India  
@@ -26,12 +27,20 @@ I'm an aspiring software developer with a strong foundation in full-stack web de
 
 ## 📚 Education
 
-**VNR Vignana Jyothi Institute of Engineering and Technology**  
-Bachelor of Information Technology (2023–2026)  
-CGPA: 7.16
-Relevant Courses: Object-Oriented Programming (Java), Data Structures & Algorithms, Database Management Systems, Web Development
 
----
+B.Tech in Computer Science and Engineering
+VNR Vignana Jyothi Institute of Engineering and Technology
+Sep 2023 – June 2026 | CGPA: 8.5
+Key Courses: Java, DSA, DBMS, OS, Software Engineering
+
+Diploma in Computer Science
+Govt Polytechnic Warangal
+June 2020 – May 2023 | GPA: 9.57
+Key Courses: C++, Web Dev, OS, CN
+
+SSC – ZPHS Kusumanchi
+March 2020 | GPA: 9.8
+Subjects: Math, Science, Social, IT
 
 ## 🏆 Certifications
 
