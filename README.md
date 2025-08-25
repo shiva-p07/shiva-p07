@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Pathlavath Shiva!
+#   Hi 👋, I'm pathlavath Shiva 
 
 🎓 **Information Technology Student** at VNR Vignana Jyothi Institute of Engineering and Technology (2023–2026)  
 📍 Hyderabad, Telangana, India  
