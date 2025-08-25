@@ -1,10 +1,12 @@
 #   Hi 👋, I'm pathlavath Shiva 
 Aspiring Software Developer | MERN Stack | Java | C++ | Backend Engineering
-
-🎓 **Information Technology Student** at VNR Vignana Jyothi Institute of Engineering and Technology (2023–2026)  
-📍 Hyderabad, Telangana, India  
-📧 [pathlavathshiva07@gmail.com](mailto:pathlavathshiva07@gmail.com) | 📱 +91 9515850258  
-🔗 [LinkedIn](https://www.linkedin.com/in/pathlavathshiva) | [GitHub](https://github.com/yourusername)
+📍 Location: Hyderabad, Telangana, India
+📧 Email: pathlavathshiva07@gmail.com
+🌐 Portfolio: 
+🔗 GitHub: https://github.com/shiva-p07
+💼 LinkedIn: P. SHIVA
+🧠 LeetCode: https://leetcode.com/u/pathlavathshiva07/
+📱 Mobile: +91 95158 50258
 
 ---
 
@@ -16,7 +18,7 @@ I'm an aspiring software developer with a strong foundation in full-stack web de
 
 ## 🛠️ Skills
 
-- **Languages:** C, C++, C#, Java, JavaScript, Python, SQL  
+--**Languages:** C, C++, C#, Java, JavaScript, Python, SQL  
 - **Frameworks:** ReactJS, NodeJS, ExpressJS, Redux, Bootstrap, .NET (C#), Django  
 - **Databases:** MongoDB, PostgreSQL  
 - **Tools & Platforms:** Git, VS Code, Eclipse, Microsoft Excel, Windows, Linux  
@@ -30,15 +32,15 @@ I'm an aspiring software developer with a strong foundation in full-stack web de
 
 B.Tech in Computer Science and Engineering
 VNR Vignana Jyothi Institute of Engineering and Technology
-Sep 2023 – June 2026 | CGPA: 8.5
+Sep 2023 – June 2026 | CGPA: 7.16
 Key Courses: Java, DSA, DBMS, OS, Software Engineering
 
 Diploma in Computer Science
 Govt Polytechnic Warangal
-June 2020 – May 2023 | GPA: 9.57
+June 2020 – May 2023 | GPA: 7.43
 Key Courses: C++, Web Dev, OS, CN
 
-SSC – ZPHS Kusumanchi
+SSC – ZPHs Raikal
 March 2020 | GPA: 9.8
 Subjects: Math, Science, Social, IT
 
@@ -46,6 +48,7 @@ Subjects: Math, Science, Social, IT
 
 - **Smart Coder (Bronze)** – Smart Interviews (Data Structures & Algorithms and Problem-Solving)  
 - **MERN Stack Development Course** – MastersCoding
+**- **MERN Stack Development – MastersCoding**
 
 ---
 
