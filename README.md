@@ -28,7 +28,7 @@ I'm an aspiring software developer with a strong foundation in full-stack web de
 
 **VNR Vignana Jyothi Institute of Engineering and Technology**  
 Bachelor of Information Technology (2023–2026)  
-CGPA: 7.0  
+CGPA: 7.16
 Relevant Courses: Object-Oriented Programming (Java), Data Structures & Algorithms, Database Management Systems, Web Development
 
 ---
