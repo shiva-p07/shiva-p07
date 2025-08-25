@@ -1,5 +1,6 @@
 #   Hi 👋, I'm pathlavath Shiva 
 Aspiring Software Developer | MERN Stack | Java | C++ | Backend Engineering
+
 📍 Location: Hyderabad, Telangana, India
 📧 Email: pathlavathshiva07@gmail.com
 🌐 Portfolio: 
